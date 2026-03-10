@@ -1,0 +1,15 @@
+oil-refining-calculator/
+├── app.py
+├── config.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── modules/
+│   ├── __init__.py
+│   ├── oil_price.py
+│   ├── refinery.py
+│   ├── product_prices.py
+│   ├── database.py
+│   ├── charts.py
+│   └── deepseek_chat.py   <-- new module for AI chat
+└── README.md
