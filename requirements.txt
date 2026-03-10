@@ -1,0 +1,7 @@
+gradio
+pandas
+numpy
+plotly
+requests
+python-dotenv
+openai
